@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS & JS**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-eight-silk-88.vercel.app/]([https://my-portfolio-eight-silk-88.vercel.app/](https://aryantahirktk.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://aryantahirktk.vercel.app/]([https://my-portfolio-eight-silk-88.vercel.app/](https://aryantahirktk.vercel.app/))
 
 - 📫 How to reach me **aryanktk377@gmail.com**
 
