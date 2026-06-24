@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack Web developer from Pakistan</h3>
 
 <img align="right" alt="code" width="400" 
-src="https://assets-v2.lottiefiles.com/a/35735896-1176-11ee-8649-af549fb59863/lsQS6q92QV.gif">
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjonM4-84F2NiiihUjyOKcvmmmFGlZNpE06Q_l-yV2A&s=10">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryantahir123&label=Profile%20views&color=0e75b6&style=flat" alt="aryantahir123" /> </p>
 
